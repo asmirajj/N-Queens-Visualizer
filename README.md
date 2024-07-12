@@ -19,6 +19,20 @@ PyQt5: Used for creating the interactive input window.
 Pygame: Used for rendering the chessboard and queen images, as well as handling the graphical representation of the algorithm.
 
 
+# Installation
+
+Install pygame library using the following code in the terminal:
+
+```bash
+pip install pygame
+```
+
+Install pyqt5 library using the following code in the terminal:
+
+```bash
+pip install pyqt5
+```
+
 # How to Use
 
 Input Window:
