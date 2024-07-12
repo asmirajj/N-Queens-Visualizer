@@ -40,4 +40,4 @@ It will display all possible solutions for the given input one by one.
 
 Upload product video for showing example of app
 
-https://github.com/user-attachments/assets/c33c1d45-fdd1-4ebd-9d27-9e178b161802
+[https://github.com/user-attachments/assets/c33c1d45-fdd1-4ebd-9d27-9e178b161802](https://github.com/user-attachments/assets/0b84ecc7-1cac-4d27-9c99-6366f65f0b4f)
