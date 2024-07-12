@@ -39,4 +39,5 @@ Queens will be placed on the chessboard, and the program will highlight conflict
 It will display all possible solutions for the given input one by one.
 
 Upload product video for showing example of app
+
 https://github.com/user-attachments/assets/c33c1d45-fdd1-4ebd-9d27-9e178b161802
